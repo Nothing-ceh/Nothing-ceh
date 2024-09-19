@@ -41,5 +41,5 @@
 
 ## 📫 Contact
 
-- **[LinkedIn]**: (https://www.linkedin.com/in/shib-nath-debsharma-7b2a71214) 
-- **[Email]**: [shibnath.ceh@gmail.com]  
+- **[LinkedIn]**(https://www.linkedin.com/in/shib-nath-debsharma-7b2a71214) 
+- **[Email]**(shibnath.ceh@gmail.com)  
