@@ -44,19 +44,19 @@
 
 ---
 <!--
-//## 🌱 Current Work & Demos
+## 🌱 Current Work & Demos
 
-//### 🎬 Multimedia Demos
-//Pipeline demo (click thumbnail to open YouTube):  
-//[![Pipeline demo](https://img.youtube.com/vi/VIDEO_ID_PIPELINE/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_PIPELINE)
+### 🎬 Multimedia Demos
+Pipeline demo (click thumbnail to open YouTube):  
+[![Pipeline demo](https://img.youtube.com/vi/VIDEO_ID_PIPELINE/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_PIPELINE)
 
-//VAPT automation walkthrough:  
-//[![VAPT demo](https://img.youtube.com/vi/VIDEO_ID_VAPT/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_VAPT)
+VAPT automation walkthrough:  
+[![VAPT demo](https://img.youtube.com/vi/VIDEO_ID_VAPT/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_VAPT)
 
 Short GIF demo (≤8MB recommended):  
 <p align="center">
-//  <img src="assets/gifs/hardening-demo.gif" alt="Hardened baseline demo GIF" width="720"/>
-//</p>
+  <img src="assets/gifs/hardening-demo.gif" alt="Hardened baseline demo GIF" width="720"/>
+</p>
 
 Lottie animation (fallback thumbnail links to Lottie preview):  
 <p align="center">
